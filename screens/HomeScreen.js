@@ -5,6 +5,7 @@ import { FIREBASE_AUTH } from '../config/firebase'
 import { useNavigation } from '@react-navigation/native';
 
 
+// HomeScreen
 
 export default function HomeScreen() {
     const navigation =useNavigation();
